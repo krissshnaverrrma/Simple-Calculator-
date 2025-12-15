@@ -2,6 +2,12 @@
 
 A simple command-line calculator built in C as a mini-project. It supports addition, subtraction, multiplication, and division.
 
+## 🚀 Live Preview
+![Screenshot of the C Console Calculator running in the terminal, showing the menu and example calculations.](assets/calculator_preview.jpg)
+
+
+***
+
 ## Project Structure
 
 This project follows a standard C layout:
