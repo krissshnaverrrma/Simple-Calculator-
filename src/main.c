@@ -4,7 +4,7 @@
 void display_menu()
 {
     printf("\n============================\n");
-    printf("  C SCIENTIFIC CALCULATOR\n");
+    printf("  C SIMPLE CALCULATOR\n");
     printf("============================\n");
     printf("  + : Addition | - : Subtraction\n");
     printf("  * : Multiply | / : Division\n");
@@ -106,4 +106,5 @@ int main()
         }
     }
     return 0;
+
 }
